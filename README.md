@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jknoetzke
-- 👀 I’m interested in cycling, motorcycling and iOS development
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in running, vintage Vespas and iOS development
+- 🌱 I’m currently learning Rust and love coding in Swift.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me justin@shampoo.ca
 
